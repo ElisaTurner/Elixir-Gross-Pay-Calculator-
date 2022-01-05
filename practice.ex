@@ -11,10 +11,7 @@ defmodule Practice do
 
     end
 
-    def say_hello("") do
-      IO.puts "You need to provide a name!"
-      main()
-    end
+
 
     def pay() do
       main()
